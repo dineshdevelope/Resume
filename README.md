@@ -23,6 +23,7 @@ This Resume is Build Using HTML (for structureing) & CSS (for styling).This Appr
 <a taget="_blank" href="https://dineshdevelope.github.io/Resume/">
     <img src="./assets/images/my-resume.jpg" alt="live preview dinesh resume"/>
 </a>
+click above image to view the [live preview](https://dineshdevelope.github.io/Resume/)
 
 ## Internship
 This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks) as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky). For more information, [you can contact CyberDude Networks here](https://cyberdudenetworks.com).
