@@ -23,6 +23,7 @@ This Resume is Build Using HTML (for structureing) & CSS (for styling).This Appr
 <a taget="_blank" href="https://dineshdevelope.github.io/Resume/">
     <img src="./assets/images/my-resume.jpg" alt="live preview dinesh resume"/>
 </a>
+
 click above image to view the [live preview](https://dineshdevelope.github.io/Resume/)
 
 ## Internship
