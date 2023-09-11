@@ -1,6 +1,5 @@
 # Project Title 
-<!--
-Bulid a Resume Using `HTML` , `CSS` -->
+
 
 ## Table of Contents
 
@@ -17,7 +16,7 @@ Bulid a Resume Using `HTML` , `CSS` -->
 - [Acknowledgments](#acknowledgments)
 
 ## Description
-This Resume is Build Using HTML (for structureing) & CSS (for styling).This Approach Allows You To Design a Modern and Responsive Resume
+This Portfolio-Page is Build Using HTML (for structureing) & CSS (for styling).This Approach Allows You To Design a Modern and Responsive Resume
 ## Demo
 <!--[Include links to a live demo, screenshots, or GIFs that showcase your project in action.] -->
 <a taget="_blank" href="https://dineshdevelope.github.io/Resume/">
