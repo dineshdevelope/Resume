@@ -1,23 +1,20 @@
 # Build a resume using HTML,CSS
 
-
 ## Table of Contents
 
-- [Project Title](#project-title)
+- [Resume using HTML,CSS](#project-title)
 - [Description](#description)
 - [Demo](#demo)
 - [Internship](#internship)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Description
-This Portfolio-Page is Build Using HTML (for structureing) & CSS (for styling).This Approach Allows You To Design a Modern and Responsive Resume
+
+This Resume-Page is Build Using HTML (for structureing) & CSS (for styling).This Approach Allows You To Design a Modern and Responsive Resume
+
 ## Demo
+
 <!--[Include links to a live demo, screenshots, or GIFs that showcase your project in action.] -->
 <a taget="_blank" href="https://dineshdevelope.github.io/Resume/">
     <img src="./assets/images/my-resume.jpg" alt="live preview dinesh resume"/>
@@ -26,8 +23,11 @@ This Portfolio-Page is Build Using HTML (for structureing) & CSS (for styling).T
 click above image to view the [live preview](https://dineshdevelope.github.io/Resume/)
 
 ## Internship
+
 This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.com/cyberdudenetworks) as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by [Mr. Anbuselvan Rocky](https://instagram.com/anbuselvanrocky). For more information, [you can contact CyberDude Networks here](https://cyberdudenetworks.com).
-## Technologies Used 
+
+## Technologies Used
+
 <!--[List the technologies, programming languages, and libraries/frameworks used in your project.] -->
 <ul>
     <li>HTML</l1>
@@ -35,7 +35,9 @@ This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.co
 </ul>
 
 ## Features
+
 <!--- - [List the key features and functionality of your project.] -->
+
 we used `BEM methodology` for class naming and for ensuring a well-structured and maintainable codebase.
 
 <!-- ## Installation
